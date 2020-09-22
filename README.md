@@ -1,2 +1,2 @@
 # Hand-Detection
-Hand Detection
+Hand Detection App 
